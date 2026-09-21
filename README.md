@@ -4,3 +4,6 @@
 
 2/
   execute test.py
+  press q to exit
+  
+  
